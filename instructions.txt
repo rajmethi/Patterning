@@ -1,0 +1,413 @@
+Measure waistband [W] : where height of final waistband will be.
+
+Measure seat [S] : around thickest part of butt
+
+Measure Rise [R] :
+	Sit on flat hard surface
+	Measure from surface up to previous waistband measurement.
+
+Measure Inseam [I]:
+	Stand
+	Measure from Floor to Knee [K] [hold there]
+	Pivot from Knee to Crotch
+
+Measure Leg opening [LO] [Circumference]
+
+Seam Allowance = 0.5in
+
+Waistband Height [WBH] = 2in
+
+
+Draft Front Leg
+
+Lay out Pattern Paper
+
+Draw a Line length 40 inches. [Spine Line]
+
+Draw a perpendicular line atop the Spine. [Waist Line]
+
+Measure R + 0.5 – WBH down from intersection of Waist and Spine.
+Mark the point [F]
+Draw a perpendicular line at F [Rise Line]
+
+
+Measure down length I (LETTER EYE) from F.  
+Mark the point [G].
+Draw a perpendicular line at G [Hem Line].
+
+Measure up K from Hem Mark. 
+Mark the point [H].
+Draw Perpendicular line at H [Knee Line]
+
+Calculate 0.25(R + 0.5 – WBH) = X. 
+Mark X inches up from Rise Line.
+Draw Perpendicular Line. [Seat Line]
+
+Calculate S x 0.125 – 0.5 = X. 
+Measure X along Rise Line on the LEFT SIDE. 
+Mark point [B].
+	Draw line [a] from point to the Waist Line
+
+Calculate S x 0.25 + 1.0 = X.
+	Find intersection point of Seat Line and Line a.
+		Mark X inches right from intersection point [N].
+
+Calculate 0.5(S x 0.125 – 0.5) = X
+	Go to point B. 
+measure X LEFT.
+	Mark point [C].
+		Draw Line from Seat Line to C.
+
+Find intersection point of line a and Waist Line.
+	Mark 0.5 right of intersection point [D].
+		Find intersection of Line A and Seat Line [E].
+			Draw line from D to E.
+
+Locate French curve.
+	Draw an “exponential curve” from C to E.
+
+Calculate W x 0.25 + 1 = X.
+	Mark X right of D. [J]
+
+Calculate LO x 0.25 = X.
+	Find intersection of Spine and Hem Line.
+		Mark X right [L] and X left [M] of intersection.
+
+Mark Knee points if desired.
+
+Connect point C to knee.
+	Connect knee to M.
+
+Connect point N to knee. 
+	Connect knee to L.
+
+Round out and soften lines as desired.
+
+Front Pattern Complete.
+
+
+Back Pattern
+
+Overlay Fresh Sheet onto Front Pattern.
+	Trace Major Lines. 
+		i.e.  
+		so spine, waistband, seat, hem, knee and straight edges.
+		
+	Calculate 0.25(S x 0.125 – 0.5) = X
+		Find intersection of line a and rise line. 
+			Mark X RIGHT of the intersection [O]
+				Draw a vertical line from O to the waist [line b].
+
+	Locate line b.
+		Mark midpoint of b (half of R) [P]
+
+	Locate intersection of line b and waist.
+		Mark RIGHT one inch. [Q]
+			Mark UP 0.5 inch of Q. [R]
+	
+	Calculate X = 0.25(S x 0.125 – 0.5)
+		Locate point C
+			Mark X LEFT of point C. [S]
+				Mark 0.25 BELOW S. [T]
+			
+	Locate French curve
+		Locate points T, P, C, R.
+			Hit all 4 points. Fiddle with French.
+
+	Calculate X = W x 0.25 + 1.75
+		Locate R.
+			Draw a hypotenuse [line c] from R to the Waist line of length X. [AC]
+
+	Calculate X = 0.5(W x 0.5 + 1.75)
+		Mark the midpoint of line c (distance X) [U]
+
+	Locate point U.
+		Turn perpendicular to line c.
+			Mark down 4.5in (Dart spine) [V]
+
+
+	Locate point U.
+		Mark 0.5 left along line c. [W]
+			Draw a line from W to V.
+		Mark 0.5 right along line c. [Y]
+			Draw a line from Y to V.
+		
+	Calculate X = S x 0.25 + 1.25
+Locate intersection of Seat line and line a.
+	Mark X RIGHT of intersection [AB].
+	
+	Calculate X = LO x 0.25 + 0.75
+		Measure X left of hem and spine intersection [Z].
+		Measure X right of hem and spine intersection [AA].
+	
+	
+	Locate Knee line. If desired.
+		Measure extra 0.75 inch vs front from intersection.
+
+	Connect T with Knee.
+		Connect Knee with Z. round out as desired.
+	Connect AB with AC.
+		Connect AB with Knee.
+			Connect Knee with AA. Round out as desired.
+
+	Back leg done.
+
+
+Length Test:
+	Walk out front inseam and back inseam. Ensure same length.
+	Walk out front outseam and back outseam. Ensure same length.
+
+
+Trying a sample
+
+Cut out Front Pattern
+	Cut out two SCRAP fabric front pieces
+
+Cut out Back Pattern
+	Cut out two scrap fabric back pieces
+
+Mark the dart points on the back pattern.
+	Fold over dart.
+		Sew from vertex to Waist. (ensure sewing on wrong-side)
+Align both back pieces with right sides facing.
+	Sew all the way from the waist down the butt curve.
+
+Align both front pieces with right sides facing.	
+	Sewing from the bottom of the curve to the approximate start of the future zipper
+
+Align the outseam of the front and back pieces.
+	Sew the outseams.
+
+Align the crotch cross of the front and back very carefully.
+	Sew from the crotch down to the hem. Both sides.
+
+Check how they fit!
+If bad fit, refer to 30:28 on Cornelius vid.
+
+
+Front fly
+
+Locate front pattern
+	Measure from waist to BEGINNING of curve on fly curve = X.
+		Draw a rectangle width=2 | length = X + 1.
+			Cut out. Label “fly [proj details]”
+
+
+Jean-style front pockets
+
+
+Exterior Back pockets
+
+
+Waistband (prep the hell outta it)
+
+If straight wb:
+	
+	interfacing [optional]
+		rectangle: height=WBH. Length= W/2 + 2.5
+			cut out. ‘wb interface [proj details]’
+
+	fabric piece:
+		rectangle height = WBH + 1.125
+			[0.5 SA top. 0.625 SA bottom.]
+		Rectangle length = W/2 + 2.5
+
+Curved wb (annoying as hell)
+	Find table
+	Find marker.
+	Attach string from marker to table corner
+	Trace arc on paper.
+	Mark start point of arc.
+	Calculate X = W/2 + 2.5.
+	WALK OUT X down from start point.
+	Measure points WBH far from the arc intermittently.
+	Cut out [label ‘wb interfacing’]
+	
+	Trace another copy with the interfacing pattern.
+	Add 0.5 in on the top.
+	Add 0.625 in on the bottom.
+	Cut out [label ‘wb fabric’]
+
+Patterning done.
+
+
+BE CONSISTENT WITH STRETCH DIRECTION AND GRAIN PATTERN!
+
+Pattern cutting/prep work
+
+LEGS
+
+Cut out two MIRRORED copies of front pattern [frontleft, frontright].
+Cut out two MIRRORED copies of back pattern [backleft, backright].
+
+FLY
+
+Cut out one fabric copy of ‘fly’
+Fold over fabric
+	Align fly pattern long edge onto folded edge
+		Cut out double-layer fly piece.
+
+FRONT POCKETS
+
+BACK POCKETS
+
+WAISTBAND
+Fold fabric over.
+	Align wb fabric pattern SHORT EDGE aligned with folded edge.
+		Cut out double layer wb piece.
+DO THIS TWICE! (front and back of waistband)
+BELT LOOPS
+BL width: 1.25
+BL Height: 3.75
+
+Trace a 6-pack of belt loops. 
+	Cut along long side. (should be 3 pairs of belt loops.)
+
+
+INTERFACING (if fabric feels a bit flimsy)
+	2x fly pieces [not connected]
+	
+	Fold over interfacing.
+		Align wb interfacing pattern’s short edge with fold edge.
+			Cut.
+				DO IT TWICE!
+
+
+ATTACHING INTERFACING
+
+Apply interface fly to back of SINGLE-LAYER fabric fly.
+
+Apply interface fly to back of ONE SIDE of DOUBLE LAYER fabric fly.
+
+Locate fabric wb. 
+	Mark center point on wrong side.
+		Locate wb interfacing.
+			Crease center point
+				Line up centers.
+					Ensure desired seam allowance along top and bottom.
+						Apply by starting in middle and radiating out.
+
+
+Sew DARTS on back.
+
+
+Front fly
+
+Serge along J curve on both front legs.
+
+Locate single layer fly.
+Draw exponential curve with French onto fly piece. 
+		Trim it off.
+			Serge from top of J around bottom back up to the top. Leave the top edge unserged.
+
+Locate double-layer fly.
+	Press wrong sides together. Iron.
+		Serge long edge, and bottom. Leave top unserged. (tip: serge with interfacing side on top.)
+
+Align wrong sides of front pieces.
+Get zipper. 
+Zipper stopper should be aligned with the start of the curve on the J-side.
+Mark the location of the zipper stopper with a pin.
+Sew the curve of the J up to the pin-marker.
+
+Orient fronts so that the j is facing toward you. 
+Lift up and front right leg.
+Locate single-layer fly
+Right sides together, align front leg with the s-l fly.
+	The bottom of s-l fly should go 0.5in past the zipper-stopper seam end.
+Sew the s-l fly and left leg on the wrong side. 
+	There WILL be a gap b/t this seam and the zipper curve seam.
+
+Iron open the s-l zipper and front left leg seam.
+Fold the s-l zipper over the seam. 
+	Now the wrong sides of s-l fly and front-left leg are touching.	
+Iron this down.
+Topstitch the right-side edge of s-l fly
+
+Orient the fronts so that the front right is showing its right-side.
+Flip the zipper so it is upsidedown.
+Align the zipper stopper like it was previously.
+Locate double fly piece.
+Place double fly piece on top of zipper. Serged edge should align with the edge of the j. the unsewn edge should be on the top.
+Stitch the 3 layers. Move the zipper pull as needed.
+Press the zipper open [on its right side]
+Top stitch along the zipper edge.
+
+Orient the project so that the fly shield and the zipper are laying flat. Zipper pull is oriented up. The curved fly piece should be laying parallel to the zipper [wrong side of the other leg]
+Now flip the left leg over the zipper. The exterior of the front should be visible.
+Fiddle with the pieces so everything is laying flat.
+Hold the zipper down while the front left piece is flipped up.
+The double fly and curved fly should be sandwiching the zipper.
+Pin together the curved fly and the zipper.
+Flip the front left back down.
+Make sure the exterior front is laying flat and well.
+Sew together the curved fly and the zipper. Move zipper pull when needed.
+
+Flatten everything on the exterior front.
+Flip the left leg over again.
+Grab the curved fly and the left leg panel. Pin them together.
+Stitch along the edge of the curved fly.
+
+
+Front pockets
+
+
+Back pockets	
+
+
+Waistband
+
+Serge around the top of the pants. 
+
+Align both waistband pieces right sides together.
+	Sew out from the middle ON THE TOP EDGE to reduce movement.
+Iron the waistband seam. 
+Check the length at intermittent points.
+Fold the waistband in half. Mark the center point.
+Wrong sides together, sew the waistband to the top of the pants.
+Press open this seam. Yes it will suck to do
+
+Orient so that the inside of the left leg is visible. Next to the fly. The waistband should be lying completely flat, like the position it was in when it was sewed on.
+Fold the fly 45deg so that the fold’s bottom edge is aligned with the waistband seam. Pin.
+Fold another layer so that the folded portions fit into top half of the waistband.
+Fold the waistband so that it encompasses the folded mess. The right sides of the waistband should be touching.
+Flip the waistband over. 
+Feel for the 45deg crease fold. Look for its point.
+Draw a perpendicular line at its point [line d].
+Sew in a “[” fashion. Sew 0.5 inch down. Turn onto line d. sew d. turn again. Sew 1 inch.
+Cut off excess.
+Snip corners.
+Remove all pins.
+Turn the assembly inside out.
+Iron.
+On the interior of the pants, fold the remaining edge of the waistband under itself all throughout the pants.
+Stitch the bottom of the waistband. Turn at the edge. Topstitch the top of the wb.
+Add button hole
+
+
+Belt loops
+
+Repeat for each of the 3 pairs:
+serge just one side.
+Fold the non-serged edge in 1/3 of the way.
+Fold the serged edge over this.
+Close the folds with a stitch.
+Cut the pair into two belt loops.
+Attach belt loops as desired
+
+
+Finishing details.
+
+Hem the pants as desired
+
+Done.
+
+
+
+
+
+	
+
+	
+
+
